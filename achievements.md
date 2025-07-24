@@ -20,4 +20,6 @@ achievements/
 
 ## 2. Example video
 
+https://github.com/user-attachments/assets/26ad5224-40c9-4e97-821a-6df265816ba0
+
 ---

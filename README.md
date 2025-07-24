@@ -6,8 +6,7 @@ We highly recommend using our new [VSCode ADVR extension](https://marketplace.vi
 
 ### Video Tutorial: Install Extension
 
-
-
+https://github.com/user-attachments/assets/55cb0577-a4d9-461a-836b-cd8f90af5aa4
 
 ## Create your Mod Base folder
 

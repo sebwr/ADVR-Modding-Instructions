@@ -20,9 +20,11 @@ potions/
     my_custom_orb.png
 ```
 
+## 2. Example video
+
 ---
 
-## 2. Example 1: Orb with Area Effect (Explosion)
+## 3. Example 1: Orb with Area Effect (Explosion)
 
 Each orb script must define certain functions and properties. Here is a real example from `erthu_orb_of_obliteration.lua`:
 
@@ -56,7 +58,7 @@ end
 ---
 
 
-## 3. Example 2: Orb with Status Effect (Poison Cloud)
+## 4. Example 2: Orb with Status Effect (Poison Cloud)
 
 Here is a real example from `erthu_noxious_orb.lua`:
 
@@ -91,7 +93,7 @@ end
 ---
 
 
-## 4. Example 3: Orb with Buff/Debuff (Movement Speed)
+## 5. Example 3: Orb with Buff/Debuff (Movement Speed)
 
 Here is a real example from `erthu_flickering_orb.lua`. Special about this example is, that this is an orb which has an effect time and an effect instance. 
 
@@ -129,7 +131,7 @@ end
 ---
 
 
-## 5. More Advanced Example: Transforming Objects (Gold)
+## 6. More Advanced Example: Transforming Objects (Gold)
 
 Here is a real example from `erthu_glittering_orb.lua`:
 
@@ -175,7 +177,7 @@ This orb uses an RPC event to transform objects and enemies into gold, change th
 
 ---
 
-## 6. Getting Help
+## 7. Getting Help
 
 - Check the official ADVR modding Discord or forums for more examples and support.
 - Look at other orb scripts for inspiration (see the `potions/` folder).

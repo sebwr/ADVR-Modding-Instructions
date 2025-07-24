@@ -21,6 +21,7 @@ progress_shops/acolyte/
 
 ## 2. Example video
 
+https://github.com/user-attachments/assets/39242f19-1b0b-46b6-b98c-464837185685
 
 ---
 

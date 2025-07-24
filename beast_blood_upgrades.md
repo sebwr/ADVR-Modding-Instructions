@@ -20,6 +20,7 @@ progress_shops/blacksmith_*/
 
 ## 2. Example video
 
+https://github.com/user-attachments/assets/8c6c05f2-3f4a-4325-9d28-fcc9b4e8f5a9
 
 ---
 

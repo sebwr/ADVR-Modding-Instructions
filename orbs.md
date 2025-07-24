@@ -22,6 +22,8 @@ potions/
 
 ## 2. Example video
 
+https://github.com/user-attachments/assets/de336740-3817-49dc-9d8a-d5cbf6d50ecc
+
 ---
 
 ## 3. Example 1: Orb with Area Effect (Explosion)

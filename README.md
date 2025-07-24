@@ -4,6 +4,11 @@
 
 We highly recommend using our new [VSCode ADVR extension](https://marketplace.visualstudio.com/items?itemName=erthugames.advr-modding-tools) in combination with VSCode. All of the following tutorials assume that you are using VSCode and have the extension installed.
 
+### Video Tutorial: Install Extension
+
+
+
+
 ## Create your Mod Base folder
 
 You can use the ADVR Extension to create a valid mod skeleton by pressing <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> and selecting `Create New ADVR Mod`. The Dialog asks then for an name of your mod and creates the necessary folder structure for you. The crucial `mod.modinfo` file is located inside the root folder. This file should list the mod name, a short description of the mod, and the last ADVR game version with which the mod is compatible.

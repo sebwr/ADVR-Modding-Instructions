@@ -19,13 +19,9 @@ items/
     my_custom_relic.png
 ```
 
-## 2. Use the official ADVR Modding Tools extension for VSCode
-
-Install the official [ADVR Modding Tools VSCode extension](https://marketplace.visualstudio.com/items?itemName=erthugames.advr-modding-tools) — it provides linting and autocompletion for all modding types. We strongly recommend using it to make creating ADVR mods easier. 
-
 ---
 
-## 3. Example 1: Basic Mod
+## 2. Example 1: Basic Mod
 
 Each relic script must define certain functions and properties. Here is a minimal example:
 
@@ -56,7 +52,7 @@ end
 
 ---
 
-## 4. Example 2: Changing Player Stats for all players
+## 3. Example 2: Changing Player Stats for all players
 
 The `ADVR.onLoad()`sets up a shared multiplayer supported relic. 
 ```lua
@@ -118,7 +114,7 @@ function HidePickupStats()
 end
 ```
 
-## 5. Example 3: Pickup That poisens Enemies
+## 4. Example 3: Pickup That poisens Enemies
 
 This a more complex example showing how to interact with different components of the game.
 
@@ -181,7 +177,7 @@ end
 
 ---
 
-## 6. Getting Help
+## 5. Getting Help
 
 - Check the official ADVR modding Discord or forums for more examples and support.
 - Look at other relic scripts for inspiration.

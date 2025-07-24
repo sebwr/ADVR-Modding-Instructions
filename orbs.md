@@ -1,7 +1,7 @@
 
 # Ancient Dungeon VR Modding Guide: Creating Custom Orbs
 
-Welcome to the modding guide for Ancient Dungeon VR (ADVR)! This guide will help you create your own custom orbs for the game, using real examples from existing orbs. Orbs are defined by Lua scripts and associated assets, and are located in the `potions/` folder. Below you'll find instructions, examples, and important tips for modders.
+Welcome to the modding guide for Ancient Dungeon VR (ADVR)! This guide will help you create your own custom orbs for the game, using real examples from existing orbs. Orbs are defined by Lua scripts and associated assets, and are located in the `potions/` folder. Below you'll find instructions, examples, and important tips.
 
 ---
 
@@ -20,14 +20,9 @@ potions/
     my_custom_orb.png
 ```
 
-## 2. Use the official ADVR Modding Tools extension for VSCode
-
-Install the official [ADVR Modding Tools VSCode extension](https://marketplace.visualstudio.com/items?itemName=erthugames.advr-modding-tools) — it provides linting and autocompletion for all modding types. We strongly recommend using it to make creating ADVR mods easier. 
-
 ---
 
-
-## 3. Example 1: Orb with Area Effect (Explosion)
+## 2. Example 1: Orb with Area Effect (Explosion)
 
 Each orb script must define certain functions and properties. Here is a real example from `erthu_orb_of_obliteration.lua`:
 
@@ -61,7 +56,7 @@ end
 ---
 
 
-## 4. Example 2: Orb with Status Effect (Poison Cloud)
+## 3. Example 2: Orb with Status Effect (Poison Cloud)
 
 Here is a real example from `erthu_noxious_orb.lua`:
 
@@ -96,7 +91,7 @@ end
 ---
 
 
-## 5. Example 3: Orb with Buff/Debuff (Movement Speed)
+## 4. Example 3: Orb with Buff/Debuff (Movement Speed)
 
 Here is a real example from `erthu_flickering_orb.lua`. Special about this example is, that this is an orb which has an effect time and an effect instance. 
 
@@ -134,7 +129,7 @@ end
 ---
 
 
-## 6. More Advanced Example: Transforming Objects (Gold)
+## 5. More Advanced Example: Transforming Objects (Gold)
 
 Here is a real example from `erthu_glittering_orb.lua`:
 
@@ -180,7 +175,7 @@ This orb uses an RPC event to transform objects and enemies into gold, change th
 
 ---
 
-## 7. Getting Help
+## 6. Getting Help
 
 - Check the official ADVR modding Discord or forums for more examples and support.
 - Look at other orb scripts for inspiration (see the `potions/` folder).

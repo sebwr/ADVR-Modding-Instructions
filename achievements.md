@@ -1,0 +1,6 @@
+# Ancient Dungeon VR Modding Guide: Creating Custom Achievements
+
+Welcome to the modding guide for Ancient Dungeon VR (ADVR)! This guide will help you create your own custom achievements for the game, using real examples from existing achievements. Achievements are defined by Lua scripts and associated assets, and are located in the `achievements/` folder. Below you'll find instructions, examples, and important tips.
+
+
+

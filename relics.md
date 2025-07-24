@@ -19,9 +19,14 @@ items/
     my_custom_relic.png
 ```
 
+## 2. Example video
+
+
+
+
 ---
 
-## 2. Example 1: Basic Mod
+## 3. Example 1: Basic Mod
 
 Each relic script must define certain functions and properties. Here is a minimal example:
 
@@ -52,7 +57,7 @@ end
 
 ---
 
-## 3. Example 2: Changing Player Stats for all players
+## 4. Example 2: Changing Player Stats for all players
 
 The `ADVR.onLoad()`sets up a shared multiplayer supported relic. 
 ```lua
@@ -114,7 +119,7 @@ function HidePickupStats()
 end
 ```
 
-## 4. Example 3: Pickup That poisens Enemies
+## 5. Example 3: Pickup That poisens Enemies
 
 This a more complex example showing how to interact with different components of the game.
 
@@ -177,7 +182,7 @@ end
 
 ---
 
-## 5. Getting Help
+## 6. Getting Help
 
 - Check the official ADVR modding Discord or forums for more examples and support.
 - Look at other relic scripts for inspiration.

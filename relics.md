@@ -21,8 +21,7 @@ items/
 
 ## 2. Example video
 
-
-
+https://github.com/user-attachments/assets/fd1e3f82-054a-422b-bffe-4a13cd9a4ac6
 
 ---
 

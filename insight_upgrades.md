@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/39242f19-1b0b-46b6-b98c-464837185685
 
 ---
 
-## 3. Example 1: Basic Acolyte Insight Upgrade
+## 3. Basic Acolyte Insight Upgrade
 
 Here's a simple example from the acolyte shop that actively modifies game behavior:
 
@@ -70,7 +70,7 @@ This upgrade:
 
 ---
 
-## 4. Example 3: Blacksmith Weapon Upgrade
+## 4. Blacksmith Weapon Upgrade
 
 Here's an example from the blacksmith shops that modifies weapon behavior:
 
@@ -116,7 +116,7 @@ This upgrade:
 
 ---
 
-## 5. Example 4: Weapon Modification Upgrade
+## 5. Weapon Modification Upgrade
 
 Here's an example that directly modifies weapon properties:
 

@@ -1,4 +1,4 @@
-# Ancient Dungeon VR Modding Guide: Create Base mod
+# Ancient Dungeon VR Modding Guide
 
 ## Getting started
 
